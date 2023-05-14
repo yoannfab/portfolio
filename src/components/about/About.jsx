@@ -41,10 +41,8 @@ const About = () => {
                   data-aos="fade-up"
                   data-aos-duration="1200"
                 >
-                  <p>Hi, my name is Yoann and I am a Full Stack Developer. My expertise includs CSS, JavaScript, ReactJS, NodeJS, PHP, Laravel and WordPress.</p> 
+                  <p>Hi, my name is Yoann and I am a Full Stack Developer. My expertise includes CSS, JavaScript, ReactJS, NodeJS, PHP, Laravel and WordPress.</p> 
                   <p>I have a passion for creating beautiful, scalable and user-friendly web applications that meet the needs of the clients. </p>
-                  <p>My background in IT has given me a strong foundation in programming concepts and technology, allowing me to adapt quickly to new tools and frameworks. </p>
-                  <p>I am always seeking to expand my knowledge and skills in the field of web development, and I am constantly learning new technologies to stay up-to-date with the latest trends and best practices. </p>
                   <p>If you're looking for a  skilled and dedicated Full Stack Developer with a passion for creating beautiful and functional web applications, I would love to hear from you.</p>
                 </div>
                 <div
