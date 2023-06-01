@@ -42,11 +42,10 @@ const Slider = () => {
               <span className="overlay_effect"></span>
             </a>
             <a 
-            href="yoann-mukendi-resume.pdf"
-            target="_blank"
+            href="#contact"
             className="white-fill-bg btn-outline btn-medium"
             style={{marginLeft: "6px"}}
-            >DOWNLOAD CV<span className="overlay_effect"></span></a>
+            >CONTACT ME<span className="overlay_effect"></span></a>
           </div>
           {/* End content */}
         </div>
