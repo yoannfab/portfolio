@@ -41,9 +41,9 @@ const About = () => {
                   data-aos="fade-up"
                   data-aos-duration="1200"
                 >
-                  <p>Hi, my name is Yoann and I am a Full Stack Developer. My expertise includes CSS, JavaScript, ReactJS, NodeJS, PHP, Laravel and WordPress.</p> 
-                  <p>I have a passion for creating beautiful, scalable and user-friendly web applications that meet the needs of the clients. </p>
-                  <p>If you're looking for a  skilled and dedicated Full Stack Developer with a passion for creating beautiful and functional web applications, I would love to hear from you.</p>
+                  <p>Hi, my name is Yoann, and I am a Full Stack Developer. My expertise includes CSS, JavaScript, ReactJS, NodeJS, PHP, Laravel, Shopify, and WordPress.</p> 
+                  <p>I am passionate about creating beautiful, scalable, user-friendly web applications that meet clients' needs.</p>
+                  <p>I would love to hear from you if you're looking for a skilled and dedicated Full Stack Developer passionate about creating beautiful and functional web applications.</p>
                 </div>
                 <div
                   className="yoann_tm_button"
@@ -51,10 +51,9 @@ const About = () => {
                   data-aos-duration="1200"
                 >
                   <a 
-                  href="yoann-mukendi-resume.pdf"
-                  target="_blank"
+                  href="#contact"
                   >
-                    Download CV
+                    CONTACT ME
                   </a>
                 </div>
               </div>
